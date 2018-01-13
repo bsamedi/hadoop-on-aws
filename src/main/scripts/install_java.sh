@@ -1,3 +1,3 @@
 #!/bin/bash
-apt-get --yes install openjdk-8-jre-headless
+apt-get --yes install openjdk-8-jdk-headless
 

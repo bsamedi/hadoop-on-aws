@@ -1,5 +1,4 @@
 #!/bin/bash
 set -e
 cd src/main/scripts
-./create_user.sh
-./install_java.sh
+./install_hadoop.sh
